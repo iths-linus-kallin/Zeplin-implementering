@@ -71,7 +71,7 @@ nav{
 
 .top{
     display: flex;
-    background-image: url(/Images/Background\ wave.svg);
+    background-image: url(Images/Background\ wave.svg);
     background-repeat: no-repeat;
     padding-left: 10vw;
     padding-right: 10vw;
