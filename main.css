@@ -109,11 +109,11 @@ nav{
 
 .bottom{
     display: flex;
-    justify-content: space-around;
-    padding-left: 10vw;
-    padding-right: 10vw;
-    padding-top: 15vw;
-    padding-bottom: 15vw;
+    justify-content: space-between;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 15vw;
+    margin-bottom: 15vw;
 }
 
 .card{
